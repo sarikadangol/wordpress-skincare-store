@@ -24,7 +24,7 @@ A modern, responsive skincare eCommerce website built with WordPress and WooComm
 - **WordPress**
 - **WooCommerce**
 - **PHP**, **HTML/CSS**
-- **Elementor** (if used)
+- **Elementor** 
 - **Localhost (XAMPP/WAMP)** for development
 
 ---
